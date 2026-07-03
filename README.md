@@ -59,10 +59,6 @@
 </p>
 
 ---
-
-### 📫 Entre em contato
-
----
 ### 📫 Entre em contato
 <p align="left">
   <a href="https://www.linkedin.com/in/yanpitter" target="_blank">
