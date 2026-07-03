@@ -1,6 +1,11 @@
 <h1 align="center">Olá, eu sou o Yan Pitter 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yanpitter&color=blueviolet&style=flat" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-brightgreen?style=flat" alt="Status" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
@@ -15,6 +20,12 @@
 💻 Estudante de **Desenvolvimento de Sistemas** 📘 Pós-graduado em **Análise de Projetos de Sistemas** 🚀 Focado em **Desenvolvimento Android (Kotlin)** e Soluções em **C# / SQL**
 
 ---
+### 🎓 Formação
+- Técnico em Desenvolvimento de Sistemas — Senac Minas (2024–2026)
+- Pós-graduação em Análise de Projetos de Sistemas — Facuvale (2024)
+- Bacharelado em Engenharia Mecânica — Anhanguera (2018–2023)
+
+---
 
 ### 🛠 Tecnologias e Ferramentas
 
@@ -24,14 +35,19 @@
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Versionamento:** Git & GitHub
 
+### 📊 Linguagens mais usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanpitter&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 ---
 
 ### 🌟 Projetos em Destaque
 
 - 📱 **[EconoFlex (Kotlin)](https://github.com/Yanpitter/EconoFlex)** - Calculadora de custo-benefício (Álcool vs Gasolina) desenvolvida para Android.
 - 👥 **[Employee Manager (Kotlin)](https://github.com/Yanpitter/Employee-Registration)** - App de registro de funcionários com operações CRUD completas.
-- 💼 **[Sistema de Cálculo de Contracheque (C#)](https://github.com/Yanpitter/Folha-de-pagamento.git)** - Automação de cálculos trabalhistas em Windows Forms.
-- 🛒 **[Simulador de Vendas (C#)](https://github.com/Yanpitter/Tech-no-loja.git)** - Interface gráfica para gestão de vendas.
+- 💼 **[Sistema de Cálculo de Contracheque (C#)](https://github.com/Yanpitter/Folha-de-pagamento)** - Automação de cálculos trabalhistas em Windows Forms.
+- 🛒 **[Simulador de Vendas (C#)](https://github.com/Yanpitter/Tech-no-loja)** - Interface gráfica para gestão de vendas.
 
 ---
 
@@ -46,8 +62,16 @@
 
 ### 📫 Entre em contato
 
+---
+### 📫 Entre em contato
 <p align="left">
   <a href="https://www.linkedin.com/in/yanpitter" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yanpitter13@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://www.portfolioyan.page.gd/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
   </a>
 </p>
