@@ -20,6 +20,7 @@
 💻 Estudante de **Desenvolvimento de Sistemas** 
 📘 Pós-graduado em **Análise de Projetos de Sistemas** 🚀 Focado em **Desenvolvimento Android (Kotlin)** e Soluções em **C# / SQL**
 
+
 ---
 ### 🎓 Formação
 - Técnico em Desenvolvimento de Sistemas — Senac Minas (2024–2026)
