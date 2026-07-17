@@ -17,7 +17,8 @@
 ### 👨‍💻 Sobre mim
 
 🎓 **Engenheiro Mecânico** em transição para a área de Tecnologia  
-💻 Estudante de **Desenvolvimento de Sistemas** 📘 Pós-graduado em **Análise de Projetos de Sistemas** 🚀 Focado em **Desenvolvimento Android (Kotlin)** e Soluções em **C# / SQL**
+💻 Estudante de **Desenvolvimento de Sistemas** 
+📘 Pós-graduado em **Análise de Projetos de Sistemas** 🚀 Focado em **Desenvolvimento Android (Kotlin)** e Soluções em **C# / SQL**
 
 ---
 ### 🎓 Formação
