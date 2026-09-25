@@ -95,7 +95,7 @@ A experiência em sala de aula também fortalece minha própria evolução técn
 * 📱 **[EconoFlex — Kotlin](https://github.com/Yanpitter/EconoFlex)**
   Calculadora de custo-benefício entre álcool e gasolina desenvolvida para Android.
 
-* 👥 **[Employee Manager — Kotlin](https://github.com/Yanpitter/Employee-Registration)**
+* 👥 **[Cadastro de Funcionários — Kotlin](https://github.com/Yanpitter/Cadastro-de-Funcion-rios)**
   Aplicativo para registro e gerenciamento de funcionários com operações CRUD.
 
 * 💼 **[Sistema de Cálculo de Contracheque — C#](https://github.com/Yanpitter/Folha-de-pagamento)**
